@@ -4,23 +4,30 @@
 
 
 
-Estou no mundo da Tecnologia da Informação desde 1996 e pude durante estes anos todos acompanhar de perto a evolução da tecnologia.  
+Sempre é tempo de reavaliar a rota, ou até mesmo mudá-la completamente, mas nem tanto assim, talvez um tom de paradoxo.
 
-Minhas experiências foram em gerenciamento de servidores, rede, suporte aplicacional e operacional em empresas de diferentes áreas como aviação, provedor de internet, alimentos e engenharia civil.
-Tenho grande experiência com suporte técnico em ambiente Linux e Windows, CCNA Cisco Networking, VMWare.  
-Possuo conhecimentos de DBA com bancos de dados relacionais com SQL Server, e bons conhecimentos de framework ITIL.  
+Estou no mundo da Tecnologia desde 1996 e pude durante estes anos todos acompanhar de perto a evolução da tecnologia.
 
-Minha formação inicial é Ciência da Computação, possuo Certificado em Microsoft Certified Azure Fundamentals e Certificado Profissional de Design Thinking.  
+Minhas experiências foram maioritariamente naquela parte da TI que as pessoas só sabem que existe quando o serviço para de funcionar. Eu fazia o gerenciamento de servidores, rede, suporte aplicacional e operacional em empresas de diferentes áreas como aviação, provedor de internet, alimentos e engenharia civil.
 
-Sou muito curiosa e busco sempre manter meus conhecimentos atualizados e nesta busca me deparei com o mundo dos dados, o que me motivou a recalcular a minha rota dentro do mundo da tecnologia e 
-hoje estou fazendo minha transição de carreira na área de Ciência de Dados e Inteligência artificial.
+Tenho grande experiência com suporte técnico em ambiente Linux e Windows, CCNA Cisco Networking, VMWare, rezumindo, infraestrutura.
 
-Este percurso teve inicio em 2021, onde mergulhei e tenho mergulhado cada dia mais no mundo dos dados e a cada dia me apaixonado mais. 
+Sou muito curiosa e busco sempre manter meus conhecimentos atualizados e nesta busca me deparei com o mundo dos dados, o que me motivou a recalcular a minha rota dentro do mundo da tecnologia e hoje aos 44 anos (sendo que pelo menos 20 foi trabalhando com infra), estou fazendo minha transição de carreira para a área de Ciência de Dados e Inteligência artificial.
 
-Poder contar historias, identificar problemas, criar soluções e poder tomar decisões mais inteligentes.
+Este percurso teve inicio em 2021, onde mergulhei e tenho mergulhado cada dia mais fundo no mundo dos dados, e tem sido de muitos desafios e aprendizados também.
 
-Sempre fui muito crítica e objetiva, isto é natural em mim. O objetivo é usar o que já tenho naturalmente e agregar com o poder que os dados bem tratados têm e assim poder ajudar a retirar insights das diferentes fontes e contribuir para combater os desafios que enfrentamos nos dias atuais. 
-Acredito que somos parte de algo maior que nós e a minha meta é contribuir e deixar uma marca positiva em tudo o que venha a fazer, porque acredito que a tecnologia não é boa nem má. O que ela será, dependerá do uso que faremos dela! 
+O mundo dos dados, nos permite:
+
+Poder contar historias
+Identificar problemas
+Criar soluções
+E com isto, tomar decisões mais inteligentes
+
+Sempre fui muito crítica e objetiva, isto é natural em mim e então, o objetivo é usar o que já tenho naturalmente e agregar, com o poder que os dados bem tratados têm, ajudar a retirar insights das diferentes fontes e contribuir para combater os desafios que enfrentamos nos dias atuais.
+
+Acredito que somos parte de algo maior que nós, e a minha meta é contribuir e deixar uma marca positiva em tudo o que eu venha a fazer, porque acredito que a tecnologia não é boa nem má, o que ela é ou será, dependerá do uso que faremos dela!
+
+Então que façamos bom uso desse poder que temos em mãos!
 
 
 
