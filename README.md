@@ -15,7 +15,7 @@ Minha formação inicial é Ciência da Computação, possuo Certificado em Micr
 Sou muito curiosa e busco sempre manter meus conhecimentos atualizados e nesta busca me deparei com o mundo dos dados, o que me motivou a recalcular a minha rota dentro do mundo da tecnologia e 
 hoje estou fazendo minha transição de carreira na área de Ciência de Dados e Inteligência artificial.
 
-Este percurso teve inicio em 2021, onde mergulhei e tenho mergulhado cada dia ,ais no mundo dos dados e a cada dia me apaixonado mais. 
+Este percurso teve inicio em 2021, onde mergulhei e tenho mergulhado cada dia mais no mundo dos dados e a cada dia me apaixonado mais. 
 
 Poder contar historias, identificar problemas, criar soluções e poder tomar decisões mais inteligentes.
 
