@@ -17,7 +17,7 @@ Então que façamos bom uso desse poder que temos em mãos!
 
 
 
-**Links:** 
+**Mais sobre mim nos Links:** 
 
 [LinkedIn](https://www.linkedin.com/in/regiane-sidlauskas/)
 
