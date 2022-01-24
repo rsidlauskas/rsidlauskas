@@ -6,10 +6,10 @@
 
 O mundo dos dados, nos permite:
 
-Poder contar historias
-Identificar problemas
-Criar soluções
-E com isto, tomar decisões mais inteligentes
+Poder contar historias   
+Identificar problemas   
+Criar soluções    
+E com isto, tomar decisões mais inteligentes   
 
 Acredito que somos parte de algo maior que nós, e a minha meta é contribuir e deixar uma marca positiva em tudo o que eu venha a fazer, porque acredito que a tecnologia não é boa nem má, o que ela é ou será, dependerá do uso que faremos dela!
 
