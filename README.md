@@ -1,5 +1,9 @@
 #### Portfólio de estudo e projetos referente a Pós em Ciência de Dados e Inteligência Artificial
 
+------
+
+
+
 Estou no mundo da Tecnologia da Informação desde 1996 e pude durante estes anos todos acompanhar de perto a evolução da tecnologia.  
 
 Minhas experiências foram em gerenciamento de servidores, rede, suporte aplicacional e operacional em empresas de diferentes áreas como aviação, provedor de internet, alimentos e engenharia civil.
